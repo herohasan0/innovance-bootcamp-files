@@ -1,0 +1,9 @@
+{
+  "short_name": "Country List",
+  "name": "List countries and language statistic",
+
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
